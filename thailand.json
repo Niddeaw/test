@@ -1,0 +1,29 @@
+[
+  {
+     "district": "พระบรมมหาราชวัง",
+     "districtEng": "Phra Borom Maha Ratchawang",
+     "amphoe": "พระนคร",
+     "amphoeEng": "Phra Nakhon",
+     "province": "กรุงเทพมหานคร",
+     "provinceEng": "Bangkok",
+     "zipcode": 10200
+  },
+  {
+     "district": "วังบูรพาภิรมย์",
+     "districtEng": "Wang Burapha Phirom",
+     "amphoe": "พระนคร",
+     "amphoeEng": "Phra Nakhon",
+     "province": "กรุงเทพมหานคร",
+     "provinceEng": "Bangkok",
+     "zipcode": 10200
+  },
+  {
+     "district": "วัดราชบพิธ",
+     "districtEng": "Wat Ratchabophit",
+     "amphoe": "พระนคร",
+     "amphoeEng": "Phra Nakhon",
+     "province": "กรุงเทพมหานคร",
+     "provinceEng": "Bangkok",
+     "zipcode": 10200
+  }
+]
